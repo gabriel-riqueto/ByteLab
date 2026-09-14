@@ -1,0 +1,10 @@
+sku,nome,preco,cor,tamanho,url da imagem
+CAM-001-P-PT,Camiseta Basica Algodao,"R$ 49,90",preto,P,https://picsum.photos/seed/cam1/600
+CAM-001-M-PT,Camiseta Basica Algodao,"R$ 49,90",Preto,M,https://picsum.photos/seed/cam1/600
+CAM-001-G-PT,Camiseta Basica Algodao,"R$ 49,90",PRETO,G,https://picsum.photos/seed/cam1/600
+CAM-001-P-BR,Camiseta Basica Algodao,"R$ 49,90",branco,P,https://picsum.photos/seed/cam2/600
+CAM-001-M-BR,Camiseta Basica Algodao,"R$ 49,90",branco,M,https://picsum.photos/seed/cam2/600
+CAL-002-38-AZ,Calca Jeans Slim,"129,90",azul,38,https://picsum.photos/seed/cal1/600
+CAL-002-40-AZ,Calca Jeans Slim,"129,90",azul,40,https://picsum.photos/seed/cal1/600
+CAL-002-42-AZ,Calca Jeans Slim,"129,90",azul,42,https://picsum.photos/seed/cal1/600
+VES-003-U-VN,Vestido Longo Estampado,"189,00",vinho,Unico,https://picsum.photos/seed/ves1/600

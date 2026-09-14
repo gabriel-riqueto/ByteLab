@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+build
+*.log
+.env
+.env.*
+!.env.example
+next-env.d.ts
+tsconfig.tsbuildinfo
+.test-build
+.refact/
+.claude/
+.vscode/
+.venv/
+coverage/
+dist/

@@ -1,0 +1,10 @@
+sku,nome,grupo,tipo_produto,departamento,preco,cor,tamanho,gtin
+CAM-001-P-PT,Camiseta Basica Algodao,CAMISETA-ALGODAO,camiseta,masculino,"R$ 49,90",preto,P,
+CAM-001-M-PT,Camiseta Basica Algodao,CAMISETA-ALGODAO,,,"R$ 49,90",Preto,M,
+CAM-001-M-PT,Camiseta Basica Algodao,CAMISETA-ALGODAO,,,"R$ 49,90",PRETO,G,
+CAM-001-P-BR,Camiseta Basica Algodao,CAMISETA-ALGODAO,,,"R$ 49,90",branco,P,
+CAM-001-M-BR,Camiseta Basica Algodao,CAMISETA-ALGODAO,,,"R$ 49,90",branco,M,
+CAL-002-38-AZ,Calca Jeans Slim,CALCA-JEANS,Pants,mens,"129,90",azul,38,
+CAL-002-40-AZ,Calca Jeans Slim,CALCA-JEANS,,,"129,90",azul,40,
+CAL-002-42-AZ,Calca Jeans Slim,CALCA-JEANS,,,"129,90",azul,42,
+VES-003-U-VN,Vestido Longo Estampado,VESTIDO-LONGO,vestido,feminino,"189,00",vinho,Unico,
