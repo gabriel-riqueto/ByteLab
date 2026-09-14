@@ -15,8 +15,6 @@ npm install
 npm run dev
 ```
 
-O login é obrigatório. Siga primeiro [MONGODB_SETUP.md](MONGODB_SETUP.md); sem as variáveis do MongoDB, a aplicação mostra a orientação de configuração e não libera o fluxo de catálogo.
-
 Abra http://localhost:3000. Use [public/exemplo-produtos.csv](public/exemplo-produtos.csv) para testar o fluxo completo (ou o link "Baixar planilha de exemplo" na própria tela de upload).
 
 ## Verificar o projeto
